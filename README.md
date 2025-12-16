@@ -1,2 +1,16 @@
-# python-statistical-data-analysis-practice
-Python programs solving real-world data analysis problems using statistics such as mean, mode, standard deviation, and percentiles.
+# Python Data Analysis Practice
+
+This repository contains Python programs that solve real-world
+data analysis and statistical problems.
+
+The focus areas include:
+- Mean and missing data restoration
+- Mode-based popularity detection
+- Standard deviation and anomaly detection
+- Percentile-based ranking
+- Identifying statistical outliers
+
+These programs demonstrate practical data handling,
+clean logic, and statistical reasoning using Python.
+
+Author: Sujay Das
